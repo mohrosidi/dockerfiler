@@ -28,7 +28,7 @@ Or from CRAN with :
 install.packages("dockerfiler")
 ```
 
-## Basic worflow
+## Basic workflow
 
 By default, Dockerfiles are created with `FROM "rocker/r-base"`.
 
